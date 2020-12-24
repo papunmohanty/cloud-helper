@@ -3,7 +3,7 @@
 The Cloud Helper is a basic wrapper over various cloud libraries
 for different cloud providers. Which is a single point to connect
 various cloud vendors and perform operations to the respective
-cloud servicess.
+cloud services.
 
 ## Installation
 
@@ -77,6 +77,12 @@ from cloud_helper.aws_helper.connections import Session
 
 session = Session()
 ```
+
+## Please Note
+
+This library is under progress.
+
+I as an author, will add different features in near future.
 
 ## License & copyright
 
