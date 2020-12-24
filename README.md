@@ -82,7 +82,7 @@ session = Session()
 
 This library is under progress.
 
-I as an author, will add different features in near future.
+I, as an author, will add different features in near future.
 
 ## License & copyright
 
