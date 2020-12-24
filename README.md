@@ -77,3 +77,7 @@ from cloud_helper.aws_helper.connections import Session
 
 session = Session()
 ```
+
+## License & copyright
+
+Licensed under the [MIT License](LICENSE)
