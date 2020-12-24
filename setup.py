@@ -24,7 +24,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.8",
     ],
-    packages=["cloud_helper"],
+    packages=["cloud_helper", "cloud_helper.aws_helper"],
     include_package_data=True,
     install_requires=["boto3"],
 )

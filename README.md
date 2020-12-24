@@ -16,7 +16,7 @@ The Cloud Helper is supported on Python 3.6 and above.
 
 ## How to use
 
-One of the very reaason to create the library is to have a single
+One of the very reason to create the library is to have a single
 library which provides facilities of connecting to various cloud providers
 and perform various operations.
 Another reason is a way to run your application and decide whether the
