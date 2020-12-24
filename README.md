@@ -78,7 +78,7 @@ from cloud_helper.aws_helper.connections import Session
 session = Session()
 ```
 
-## Please Note
+## Author Notes
 
 This library is under progress.
 
