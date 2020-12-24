@@ -12,7 +12,7 @@ README = (HERE / "README.md").read_text()
 setup(
     name="cloud-helper",
     version="1.0.0",
-    description="",
+    description="A convenient Helper library for various cloud services",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/papunmohanty/cloud-helper",
